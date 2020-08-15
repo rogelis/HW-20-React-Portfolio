@@ -5,10 +5,11 @@
 Created a production ready fully responsive portfolio page. Utilizing react-reveal/fade for animation in js. 
 
 # Preview - 
+![portimage](https://lh3.googleusercontent.com/sIZPNuqQZ11NHe846FEB3m3YmtGYR2Z9EdORmetYg1igLbkSpPBBCvJSGSDrsWXyTBOxmAAbdZrCow=w2559-h936-rw)
 
 
-
-# The Data can be customised in the src/yourdata.js
+# Data Structure
+All of te components are separated and allow for easier manipulation of different parts of the page.
 
 Portfolio created with Reactapp. It is lightweight and fully responsive, and with the Awesome Animations. Inline component styling for the scrolling effect in Navbar.js
 
@@ -18,13 +19,10 @@ Portfolio created with Reactapp. It is lightweight and fully responsive, and wit
 * Minimal  
 
 ## How to use
-1.Clone/Download the repo.
+1.Clone or Download the repo.
 2.Run npm install
 4.Run npm start or yarn start to start the local dev server port 3000.(http://localhost:3000).
 
-# Full Preview - 
-![portfolio](https://user-images.githubusercontent.com/16558205/59826731-7d494300-9354-11e9-92dd-46f7057b6ead.png)
-
 
 License
-Completely free (MIT)!
+Peacefully free (MIT)!
